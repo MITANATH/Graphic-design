@@ -1,10 +1,10 @@
 import React from 'react';
-import MySlider from './react-slider';
-
+import Example from './sliderimage';
+import "./App.css"
 function App() {
     return (
         <div>
-            <MySlider/>
+            <Example/>
             
         </div>
     );

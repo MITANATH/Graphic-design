@@ -13,11 +13,11 @@ const Example = () => {
   <div className="each-slide-effect">
     <div
       style={{
-        backgroundImage: 'url(https://3.bp.blogspot.com/-qB_lTb5MyNE/WEjMy4L78jI/AAAAAAAADM0/7xKv9wGKAJsXR7UCdsOnEVZwv14X68FvgCLcB/w1200-h630-p-k-no-nu/i-love-luchi.1024x1024.jpg)'
+        backgroundImage: 'url(https://www.figma.com/file/91QjP2Pho4bMA2JD6Z2fMN/image/ca298291cb4994eb0e053705c1cb852e54fb68fd?fuid=1317529350728843859)'
       }}
     >
       <span>
-        Slide 1
+        
       </span>
     </div>
   </div>
@@ -28,7 +28,7 @@ const Example = () => {
       }}
     >
       <span>
-        Slide 2
+        
       </span>
     </div>
   </div>
@@ -39,7 +39,7 @@ const Example = () => {
       }}
     >
       <span>
-        Slide 3
+        
       </span>
     </div>
   </div>

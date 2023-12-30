@@ -3,8 +3,9 @@ import Example from './sliderimage';
 import "./App.css"
 function App() {
     return (
-        <div>
-            <Example/>
+        <div style={{ width: "600px", height: "400px" }}>
+            
+        <Example/>
             
         </div>
     );
